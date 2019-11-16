@@ -66,9 +66,10 @@
 
 6. Click Generate to download skeleton project
 
-### If you feel difficult to follow these steps, just click below link
+### If you feel difficult to follow these steps, just clone below repository
 
-- <https://start.spring.io/starter.zip?type=gradle-project&language=java&bootVersion=2.2.1.RELEASE&baseDir=demo&groupId=com.linecorp.devday.handson&artifactId=demo&name=demo&description=Demo%20project%20for%20Spring%20Boot&packageName=com.linecorp.devday.handson.demo&packaging=jar&javaVersion=11&dependencies=webflux&dependencies=lombok>
+- https://github.com/joonhaeng/line-devday-2019-hands-on-src
+  - checkout [chatper-0] branch
 
 ## Import demo project to IntelliJ
 
