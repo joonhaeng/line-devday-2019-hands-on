@@ -68,7 +68,7 @@
 
 ### If you feel difficult to follow these steps, just click below link
 
-- <https://start.spring.io/starter.zip?type=gradle-project&language=java&bootVersion=2.2.0.RELEASE&baseDir=demo&groupId=com.linecorp.devday.handson&artifactId=demo&name=demo&description=Demo%20project%20for%20Spring%20Boot&packageName=com.linecorp.devday.handson.demo&packaging=jar&javaVersion=11&dependencies=webflux&dependencies=lombok>
+- <https://start.spring.io/starter.zip?type=gradle-project&language=java&bootVersion=2.2.1.RELEASE&baseDir=demo&groupId=com.linecorp.devday.handson&artifactId=demo&name=demo&description=Demo%20project%20for%20Spring%20Boot&packageName=com.linecorp.devday.handson.demo&packaging=jar&javaVersion=11&dependencies=webflux&dependencies=lombok>
 
 ## Import demo project to IntelliJ
 
